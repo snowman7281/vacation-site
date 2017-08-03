@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Julee');
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Julee', cursive;
+}
+
+img {
+  width: 900px;
+  padding-bottom: 20px;
+}
+
+.picdiv {
+  text-align: center;
+}
+
+body {
+  background-color: lavender;
+}
